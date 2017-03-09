@@ -1,8 +1,8 @@
-# Radar
+# Radar-30943855
 
 Project created to report bug on UITextField for tvOS
 
-· Open radar: https://openradar.appspot.com/29550904
+· Open radar: https://openradar.appspot.com/30943855
 
 # Description
 When an intance of UITextField is created from Interface Builder, it ignores the property NSFontAttributeName set to attributedPlaceholder when isSecureTextEntry is set to `true`
